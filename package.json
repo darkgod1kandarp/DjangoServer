@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "mapbox-gl": "^2.0.1",
+    "node-sass": "^4.14.1",
+    "react-image-crop": "^8.6.6",
     "react-mapbox-gl": "^5.1.1"
   }
 }
